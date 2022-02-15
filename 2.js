@@ -5,3 +5,5 @@ const B = 2
 const C = 3
 
 const D = 4
+
+const E = 5
